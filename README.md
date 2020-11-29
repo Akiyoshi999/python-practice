@@ -1,4 +1,4 @@
-# pythonƒR[ƒh‚¨ŽŽ‚µê
+# pythonã‚³ãƒ¼ãƒ‰ãŠè©¦ã—å ´
 
-## ŠT—v
-python‚ÅŽŽ‚µ‚½‚¢ƒR[ƒh‚âƒAƒ‹ƒSƒŠƒYƒ€‚Ì—ûK‚ÅŽg—p‚µ‚½ƒR[ƒh‚ð‚¨‚à‚É‚¨‚¢‚Ä‚Ü‚·B
+## æ¦‚è¦
+pythonã§è©¦ã—ãŸã„ã‚³ãƒ¼ãƒ‰ã‚„ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã®ç·´ç¿’ã§ä½¿ç”¨ã—ãŸã‚³ãƒ¼ãƒ‰ã‚’ãŠã‚‚ã«ãŠã„ã¦ã¾ã™ã€‚
