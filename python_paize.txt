@@ -1,0 +1,1 @@
+str_list = sorted(list(input().split()))
